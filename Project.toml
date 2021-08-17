@@ -1,0 +1,18 @@
+name = "Exiv2_jll"
+uuid = "d2dc9c37-b624-5257-85b1-2eb67ce3a11b"
+version = "0.27.4+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+libpng_jll = "b53b4c65-9356-5827-b1ea-8c7a1a84506f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Expat_jll = "2e619515-83b5-522b-bb60-26c02a35a201"
+Libiconv_jll = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+Expat_jll = "2.2.10"

@@ -1,0 +1,288 @@
+[[Exiv2]]
+arch = "aarch64"
+git-tree-sha1 = "d8ac0d7dd159a808e7caa18f496d9b549a4d4096"
+os = "macos"
+
+    [[Exiv2.download]]
+    sha256 = "5f7f6b5c2eda6d48cce5f40db853e378c4fc1f5814f31ff025606c621c3cf402"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.aarch64-apple-darwin.tar.gz"
+[[Exiv2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a6c4afd2a00ab5e3a926c7e008d3ebe777429c3"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "7809c7e5e5e931be9f411a888a9bfb0d7c638000cabd31022bf9627db6ed1a7a"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.aarch64-linux-gnu-cxx03.tar.gz"
+[[Exiv2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "df929484bb806dd160579bfaa1ab12ddfc555b6b"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "d7b57ae7468eda9bf61e51862824223709d5ac889a0f84c3439356cc207a9930"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.aarch64-linux-gnu-cxx11.tar.gz"
+[[Exiv2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1fbacfb36bf3331e8ae6b59caadfa7ec110220ba"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "633217d646c1e7aed70bac8cf5579b5b81e54a1cdec89796dc58285c761128e1"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.aarch64-linux-musl-cxx03.tar.gz"
+[[Exiv2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "da66a5701b02d9df38ed0454f78b5e2b10c10f42"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "6fec4b9df0453e45696dbcce1939153e30154e871652c0b346b222078f829a3f"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.aarch64-linux-musl-cxx11.tar.gz"
+[[Exiv2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7d9497594d808d48d233de27c0e98c651ec9d285"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "3993f78fbde1ff2a2a908dc78fea8f7f70d7e0ea9f59b1eec5b29252050c22c6"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Exiv2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce3e7aac0a8a7d72f8e133b40ff32b60a1e31b8a"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "f3ea4337cd7dcb7e39f3b2185a9c1a7b22a14c19806540e456d60bdd34d89744"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Exiv2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "65ea0008756daa1124f3a6f12df10e55e5949839"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "721f8959588e7158aff5183dbac375c356863b14c01c8cb405d49f90edfaf653"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Exiv2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25f35fabcb57e1776041505346ae965d4ab200ea"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "f5905f192e7938e95876d345f3b9756fbcc89fe9c0260b7b73f519de8dd1cd2b"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Exiv2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4237bb61afd47365c34d0af0b70887cee640dcb6"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "5c96b982654c0bb9cf48298f97f27ad833a82f71e820bbf66ffab847070f4c95"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Exiv2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "defa6a6241d81d8963ea4f06395d1d2c5f61628a"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "6dc2465cc688e55ba91fef7d6d59d3c3859df74a775391a38d6a83b7411a7375"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Exiv2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9ea5a223543ed581d3f198297866017efea3d1ec"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "3d8a365bd009396e34b32397cd2a85993779da9f1e16dd975424be0aa5238820"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Exiv2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "000790039a70d6d0330989a9db26419760e63dc5"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "09479b73383747b6c3a35dfaad6ec0a88242ac9b5bfd5189d6ccde0a683eb0b4"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Exiv2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0af7b9a624cfe11ae0bd048cbba3977366706b9a"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "7a56b9c08c6c53d6359625991b21b7d83362b4c66ed1b26e76a54547cd57c167"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.i686-linux-gnu-cxx03.tar.gz"
+[[Exiv2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "342e1f26fff769912f2fc11b34c1bee1db24f0cb"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "e50b7f480dccc4a1fa055b4782feccaf70826e3d593cfcb2afbf2931d68caddb"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.i686-linux-gnu-cxx11.tar.gz"
+[[Exiv2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "28a59d73bbe416844c2185642106980b71dfe6cc"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "5472f1034ab4dff5d411b76bd8f2f3a8c8f716231e688aadae92b8697898bac8"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.i686-linux-musl-cxx03.tar.gz"
+[[Exiv2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dd9c83070bb305bb179c068ce8710c6c69a84cbd"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "8132797c97734ce5541842a49e6b10d2c72a464855d3f956eeabc752a8d7a0b6"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.i686-linux-musl-cxx11.tar.gz"
+[[Exiv2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e5711a3c693e733e9c47d3ea1515c660970951d"
+os = "windows"
+
+    [[Exiv2.download]]
+    sha256 = "c295d2569963cc5ff32031055104e4ea79406da1e5092950cc7d3d1d64b6fd2f"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.i686-w64-mingw32-cxx03.tar.gz"
+[[Exiv2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb6cde63583575a65c2674cddaec405e16596863"
+os = "windows"
+
+    [[Exiv2.download]]
+    sha256 = "04d4c8e6277d33ba121c110b3daeabd9dae48438b012019d863653f5497218da"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.i686-w64-mingw32-cxx11.tar.gz"
+[[Exiv2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "20289646e486791083c6a5a01252ac50fa372c0e"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "3af0044af0e72dfe47fe8665e83fa65c1289318d5f8561e51c6a3f43958a77e2"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Exiv2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0fd9f993e13ff27230b9ffcd250b6e84e02a3e4e"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "33dfc09de4ee70a81e8ec0c2e0508c961432bf026a90ab4b634a855cd64fa518"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Exiv2]]
+arch = "x86_64"
+git-tree-sha1 = "be817c5fb7ed046ef1513b0b7df0c94bc6a51aac"
+os = "macos"
+
+    [[Exiv2.download]]
+    sha256 = "44e01c30d73ff9aec10c27397d1b385a8631333e3e2205077dd4800715acde38"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.x86_64-apple-darwin.tar.gz"
+[[Exiv2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "876f30a8197824a45637cba9df894d6fbaa8a685"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "36bb97685715d4863ca502dd706ff9bb8122c15123f75757a407596b6ab4cafc"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[Exiv2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "77b1c695cbda9069560ede06f2833f3513829bc7"
+libc = "glibc"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "d77f51fcfcadb9265a9488810fce95587afb7cf5c1ee9b1d18e27e99c0d86b8c"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[Exiv2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d61c01bb98777dbeb53d45580c6bde9b40c66520"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "51b7725880c9de7069a85e28b2be5aabad7cde9da12fe7c018f35228a388a686"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.x86_64-linux-musl-cxx03.tar.gz"
+[[Exiv2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec46e7814e46aa338107672a208f820c4c0b5b94"
+libc = "musl"
+os = "linux"
+
+    [[Exiv2.download]]
+    sha256 = "484efc784711dab86ba799468049b5febfdeb5ec4e1e1ee1d6a1f3973b92e172"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.x86_64-linux-musl-cxx11.tar.gz"
+[[Exiv2]]
+arch = "x86_64"
+git-tree-sha1 = "d4371ef72319762e6f30f67b502eb6855f5240e9"
+os = "freebsd"
+
+    [[Exiv2.download]]
+    sha256 = "c3853381a3127baa4e63ea5a74e956998d93d95ca8876e96c2d85a2c40384881"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.x86_64-unknown-freebsd.tar.gz"
+[[Exiv2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6afcea8b3aa4c877ae6b67aa9d897fc1520c032"
+os = "windows"
+
+    [[Exiv2.download]]
+    sha256 = "dce14c65c1af12533d3314f5574f8466bee2cf02959b07cb5c0ee783787c1b83"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Exiv2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fe7702263fa37644172948028331512438b8b1ac"
+os = "windows"
+
+    [[Exiv2.download]]
+    sha256 = "0c6a98f3816dc25399eab6162b37da9128f0959f20451ad5059ea2f7eed1acb1"
+    url = "https://github.com/JuliaBinaryWrappers/Exiv2_jll.jl/releases/download/Exiv2-v0.27.4+0/Exiv2.v0.27.4.x86_64-w64-mingw32-cxx11.tar.gz"
